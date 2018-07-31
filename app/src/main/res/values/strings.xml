@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ReservationEnhanced</string>
+    <string name="name">Name</string>
+    <string name="number">Telephone</string>
+    <string name="size">Size</string>
+    <string name="smokin">Smoking</string>
+    <string name="day">Day</string>
+    <string name="mess1">Click here to select day</string>
+    <string name="time">Time</string>
+    <string name="mess2">Click here to select time</string>
+    <string name="btn1">RESERVE</string>
+    <string name="btn2">RESET</string>
+
+</resources>
